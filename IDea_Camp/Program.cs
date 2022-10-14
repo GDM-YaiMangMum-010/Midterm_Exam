@@ -58,19 +58,21 @@ class Program
                         break;
                     case "2":
                     {
-                        list_user.ShowAllList();
+                        list_user.ShowlistCollegian();
                         Console.Clear();
                         Main();
                     }
                         break;
                     case "3":
                     {
+                        list_user.ShowlistStudent();
                         Console.Clear();
                         Main();
                     }
                         break;
                     case "4":
                     {
+                        list_user.ShowlistTeacher();
                         Console.Clear();
                         Main();
                     }
