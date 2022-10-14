@@ -44,7 +44,7 @@ class Register
             break;
         }
     }
-    static void NewCollegian()
+    public static void NewCollegian()
     {
         string name_prefix = InputPreFix();
         string name = InputName();
@@ -54,7 +54,7 @@ class Register
             Console.WriteLine("User is already registered. Please try again.");
             NewCollegian();
         }
-        int id_student = InputIDStudent();
+        long id_student = InputIDStudent();
         int age = InputAge();
         string allergy = InputAllergy();
         string religion = InputRiligion();
@@ -67,7 +67,7 @@ class Register
         Collegian collegian = new Collegian(name_prefix,name,surname,id_student,age,allergy,religion,admin,email,password);
         Register.user_control.NewUsers(collegian);
         }
-    static void NewStudent()
+    public static void NewStudent()
     {
         string name_prefix = InputPreFix();
         string name = InputName();
@@ -85,7 +85,7 @@ class Register
         Students students = new Students(name_prefix,name,surname,age,level_education,allergy,religion,school);
         Register.user_control.NewUsers(students);
     }
-    static void NewTeacher()
+    public static void NewTeacher()
     {
         string name_prefix = InputPreFix();
         string name = InputName();
@@ -140,7 +140,7 @@ class Register
             break;
         }
         Console.WriteLine("Please Select in this choice");
-        return InputAdmin();
+        return InputUseCar();
     }
     private static void PrintRegisterHeader()
     {

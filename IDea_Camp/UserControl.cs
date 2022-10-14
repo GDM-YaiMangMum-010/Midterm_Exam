@@ -144,6 +144,7 @@ public class UserControl
         Console.WriteLine("All Level 4 = {0}",m4);
         Console.WriteLine("All Level 5 = {0}",m5);
         Console.WriteLine("All Level 6 = {0}",m6);
+        Program.Input();
     }
     public void ShowLogInInfo()
     {

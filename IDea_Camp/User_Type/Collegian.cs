@@ -1,9 +1,9 @@
 using System;
 public class Collegian : Users
 {
-    private int id_student;
+    private long id_student;
     private Admin admin;
-    public Collegian(string name_prefix,string name,string surname,int id_student,int age,string allergy,string religion,bool admin,string email,string password)
+    public Collegian(string name_prefix,string name,string surname,long id_student,int age,string allergy,string religion,bool admin,string email,string password)
     : base(name_prefix,name,surname,age,allergy,religion,admin)
     {
         this.id_student = id_student;
@@ -17,7 +17,7 @@ public class Collegian : Users
     {
         return this.admin.GetPassword();
     }
-    public int GetIDStudent()
+    public long GetIDStudent()
     {
         return this.id_student;
     }
