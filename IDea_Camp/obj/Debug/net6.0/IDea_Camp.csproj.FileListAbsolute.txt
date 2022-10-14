@@ -1,0 +1,15 @@
+F:\MDT\2022\MDT211\Midterm_Exam\IDea_Camp\obj\Debug\net6.0\IDea_Camp.csproj.AssemblyReference.cache
+F:\MDT\2022\MDT211\Midterm_Exam\IDea_Camp\obj\Debug\net6.0\IDea_Camp.GeneratedMSBuildEditorConfig.editorconfig
+F:\MDT\2022\MDT211\Midterm_Exam\IDea_Camp\obj\Debug\net6.0\IDea_Camp.AssemblyInfoInputs.cache
+F:\MDT\2022\MDT211\Midterm_Exam\IDea_Camp\obj\Debug\net6.0\IDea_Camp.AssemblyInfo.cs
+F:\MDT\2022\MDT211\Midterm_Exam\IDea_Camp\obj\Debug\net6.0\IDea_Camp.csproj.CoreCompileInputs.cache
+F:\MDT\2022\MDT211\Midterm_Exam\IDea_Camp\bin\Debug\net6.0\IDea_Camp.exe
+F:\MDT\2022\MDT211\Midterm_Exam\IDea_Camp\bin\Debug\net6.0\IDea_Camp.deps.json
+F:\MDT\2022\MDT211\Midterm_Exam\IDea_Camp\bin\Debug\net6.0\IDea_Camp.runtimeconfig.json
+F:\MDT\2022\MDT211\Midterm_Exam\IDea_Camp\bin\Debug\net6.0\IDea_Camp.dll
+F:\MDT\2022\MDT211\Midterm_Exam\IDea_Camp\bin\Debug\net6.0\IDea_Camp.pdb
+F:\MDT\2022\MDT211\Midterm_Exam\IDea_Camp\obj\Debug\net6.0\IDea_Camp.dll
+F:\MDT\2022\MDT211\Midterm_Exam\IDea_Camp\obj\Debug\net6.0\refint\IDea_Camp.dll
+F:\MDT\2022\MDT211\Midterm_Exam\IDea_Camp\obj\Debug\net6.0\IDea_Camp.pdb
+F:\MDT\2022\MDT211\Midterm_Exam\IDea_Camp\obj\Debug\net6.0\IDea_Camp.genruntimeconfig.cache
+F:\MDT\2022\MDT211\Midterm_Exam\IDea_Camp\obj\Debug\net6.0\ref\IDea_Camp.dll
